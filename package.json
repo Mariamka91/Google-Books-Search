@@ -4,7 +4,7 @@
   "description": "React-based Google Books Search app",
   "main": "index.js",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "husky": "^4.2.3",
     "lint-staged": "^10.1.1",
     "nodemon": "^2.0.2",
